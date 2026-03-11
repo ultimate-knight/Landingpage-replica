@@ -1,11 +1,10 @@
 import { useState } from 'react'
 import {BrowserRouter,Route,Routes} from "react-router-dom"
-import Landing from './Components/landing'
+import Landing from './Components/Landing'
 import Profile from './Components/Profile'
 import Signin from './Components/Signin'
 import Signout from './Components/Signout'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+i
 import './App.css'
 
 function App() {
