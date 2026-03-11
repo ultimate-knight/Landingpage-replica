@@ -4,7 +4,6 @@ import Landing from './Components/Landing'
 import Profile from './Components/Profile'
 import Signin from './Components/Signin'
 import Signout from './Components/Signout'
-i
 import './App.css'
 
 function App() {
